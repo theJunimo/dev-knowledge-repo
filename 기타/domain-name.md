@@ -36,9 +36,9 @@
 
 [^1]:ICANN(The Internet Corporation for Assigned Names and Numbers, 국제인터넷주소관리기구)는 DNS 루트 관리, 새로운 TLD 할당, IP 주소 관리(ICANN 산하 IANA의 역할), 레지스트리와 레지스트라의 인가,도메인에 적용되는 공통 정책 제정 등을 총괄하는 미국 소재의 비영리기구이다. 
 
-[^2]ISO 3166-1은 ISO 3166 표준의 일부로, 세계의 나라와 부속 영토, 국가의 주요 구성 단위의 명칭에 고유 부호를 부여한다.
+[^2]:ISO 3166-1은 ISO 3166 표준의 일부로, 세계의 나라와 부속 영토, 국가의 주요 구성 단위의 명칭에 고유 부호를 부여한다.
 
-[^3]세계 각국에는 자국의 인터넷 주소 자원을 관리하는 'NIC(Network Information Center)'라는 조직이 있다. 우리나라의 경우에는 KRNIC(Korea Network Information Center)라고 한다.
+[^3]:세계 각국에는 자국의 인터넷 주소 자원을 관리하는 'NIC(Network Information Center)'라는 조직이 있다. 우리나라의 경우에는 KRNIC(Korea Network Information Center)라고 한다.
 
 
 
